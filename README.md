@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Omar-Hanyy14
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Omar Hany. I'm a software engineer specilaizing in front-end development.
+- 👀 Nice to see ya'll 
 
 <!---
 Omar-Hanyy14/Omar-Hanyy14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
