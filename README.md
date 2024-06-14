@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omar Hany. I'm a software engineer specializing in front-end development.
+- 👋 Hi, I’m Omar Hany. I'm a software engineer specializing in web development.
 - 👀 Nice to see ya'll 
 
 <!---
